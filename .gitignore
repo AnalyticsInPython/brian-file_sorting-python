@@ -1,0 +1,15 @@
+# 스크립트가 만들어내는 산출물
+request/
+request_by_date/
+sort_report.csv
+sort_manifest.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+._*
